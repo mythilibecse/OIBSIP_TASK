@@ -11,4 +11,3 @@ This repository showcases my "Calculator" project, a fully functional web-based 
 
 https://github.com/mythilibecse/OIBSIP_TASK_1/assets/112631957/e33edd14-bd25-4080-91c6-1913af4a69f7
 
-#WebDevelopment #HTML #CSS #JavaScript #CalculatorApp #FrontEndDevelopment
